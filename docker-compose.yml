@@ -1,0 +1,6 @@
+version: '3'
+services:
+  courses:
+    image: mundex/u20201c082:branco
+    ports:
+      - "8080:8080"
